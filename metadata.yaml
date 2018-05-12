@@ -1,0 +1,41 @@
+_repo: The-Naval-History-of-the-United-States--13-Volume-2_26416
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: McVickar, H. W. (Harry Whitney)
+    aliases:
+    - McVickar, Harry Whitney
+    - McVicar, H. W.
+    birthdate: 1860
+    gutenberg_agent_id: '43567'
+    url: http://www.gutenberg.org/2009/agents/43567
+  - agent_name: Jackson, W. C.
+    gutenberg_agent_id: '31991'
+    url: http://www.gutenberg.org/2009/agents/31991
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbot, Willis J. (Willis John)
+    alias: Abbot, Willis John
+    birthdate: 1863
+    deathdate: 1934
+    gutenberg_agent_id: '6179'
+    url: http://www.gutenberg.org/2009/agents/6179
+    wikipedia: http://en.wikipedia.org/wiki/Willis_J._Abbot
+description: V. 2. Blue jackets of 1812 (cont.) -- Blue jackets of '61 -- Blue jackets
+  in times of peace -- The naval war with Spain.
+gutenberg_issued: '2008-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History, Naval'
+- !lcc 'V'
+title: The Naval History of the United States. Volume 2
+url: http://www.gutenberg.org/ebooks/26416
